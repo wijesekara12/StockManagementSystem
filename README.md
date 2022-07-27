@@ -1,2 +1,2 @@
-# StockManagementSystem
+# Stock Management System
 stock management system is essential to manage stock details. Corresponding to the Stock handling function, Stock Manager can add latest items to the system like Vegetables, Fruits etc. Moreover, he can update items details such as availability of that item, prices, expiry dates, condition of each item. Although Stock managers can delete items from stock. There is another function separately from the main functions that generate a report, such as to view statistics of the current stock details, available items, unavailable items like wise. Further, the Stock manager can search for the item’s details through the ItemID, ItemName.
